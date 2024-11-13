@@ -54,7 +54,7 @@ publishing {
         maven(MavenPublication) {
             groupId "com.github.kardelencetin"
             artifactId "bottomDialog"
-            version "2.0"
+            version "3.0"
             pom {
                 description = 'bottomDialog'
             }
